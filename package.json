@@ -2,6 +2,9 @@
   "name": "beatsaber-crashreporterapi",
   "version": "1.0.0",
   "description": "A wrapper around https://analyzer.questmodding.com/crashes",
+  "repository": {
+    "type": "git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
