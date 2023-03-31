@@ -1,6 +1,6 @@
 {
   "name": "beatsaber-crashreporterapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper around https://analyzer.questmodding.com/crashes",
   "repository": {
     "type": "git"
