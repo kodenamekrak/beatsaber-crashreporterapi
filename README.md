@@ -1,6 +1,6 @@
 # beatsaber-crashreporterapi
 
-A simple wrapper for the [CrashReporter API](https://analyzer.questmodding/api/crashes)
+A simple wrapper for the [CrashReporter API](https://analyzer.questmodding.com/api/crashes)
 
 ## Installing
 
